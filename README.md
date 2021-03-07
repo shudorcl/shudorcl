@@ -1,5 +1,4 @@
-### Hi there 👋
-### 👋 ereht iH
+### Hi there 👋 👋 ereht iH
 <!--
 **shudorcl/shudorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
