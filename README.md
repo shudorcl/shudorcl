@@ -1,5 +1,5 @@
 ### Hi there 👋 👋 ereht iH
-最近非常想去福州，品尝正宗的佛跳墙
+想坐火车横穿西伯利亚，直到莫斯科
 <!--
 **shudorcl/shudorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
