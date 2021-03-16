@@ -1,5 +1,5 @@
 ### Hi there 👋 👋 ereht iH
-想坐火车横穿西伯利亚，直到莫斯科
+想坐火车横穿西伯利亚，直到莫斯科，再一路直达圣彼得堡，看一眼涅瓦河畔的冬宫
 <!--
 **shudorcl/shudorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
