@@ -3,6 +3,7 @@
 Waaagh！
 
 ←那边那个是谁啊，不认识呢
+↓哇，仓库作者删了分支导致我被踢出contributor了，呜呜呜
 <!--
 **shudorcl/shudorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
