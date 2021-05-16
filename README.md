@@ -3,7 +3,7 @@
 
 Waaagh！
 
-现在主要玩俩，QQbot和CV
+学校里最混的混子，擅长面向百度/CSDN编程，找不到才去Google/StackOverflow
 
 ←那边那个是谁啊，不认识呢
 
