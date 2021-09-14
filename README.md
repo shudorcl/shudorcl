@@ -3,13 +3,7 @@
 
 Waaagh！
 
-学校里最混的混子，擅长面向百度/CSDN编程，找不到才去Google/StackOverflow
-
-←那边那个是谁啊，不认识呢
-
-~~↓哇，仓库作者删了分支导致我被踢出contributor了，呜呜呜~~
-
-↓回来力！
+处于从瞎🎤查资料到瞎🎤抄书的转折期~
 <!--
 **shudorcl/shudorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
