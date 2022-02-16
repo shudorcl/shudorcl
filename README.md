@@ -2,8 +2,6 @@
 **做脚本小子，写绿皮代码！**
 
 Waaagh！
-
-最近非常摸，这样下去可不好
 <!--
 **shudorcl/shudorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
