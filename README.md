@@ -5,11 +5,7 @@ Waaagh！
 
 ---
 
-哈姆，哈姆，哈姆，哈姆的哈的贝哈姆哈姆的的哈贝贝，哈姆的哈的贝哈姆哈姆的哈贝贝，哈姆，哈姆，古莫德那德米列洛姆，古莫德那德米列洛玛，古莫德那德米列洛玛，阿珂么德哈马迪，阿珂么德哈马迪
-
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=813dc7395ce9390156028d364bed54f9/8506a4f2d7ca7bcbf7a2b836e3096b63f724a8dd.jpg)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=ab8d5dd8de504fc2a25fb00dd5dce7f0/9c68a4328744ebf89eefb5ef9cf9d72a6159a74b.jpg)
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=2cc6977d0b4e9258a63486e6ac83d1d1/3d88cd390cd79123b238eb6df0345982b3b780dd.jpg)
+头像换成了大宝
 <!--
 **shudorcl/shudorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
