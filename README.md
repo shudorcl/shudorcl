@@ -3,6 +3,8 @@
 
 Waaagh！
 
+正式一点的自我介绍：我是一个业余翻译，时不时写点代码
+
 <!--
 **shudorcl/shudorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
