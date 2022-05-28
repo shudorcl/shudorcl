@@ -1,9 +1,6 @@
 ### Hi there 👋 👋 ereht iH
-**做脚本小子，写绿皮代码！**
 
-Waaagh！
-
-正式一点的自我介绍：我是一个业余的翻译爱好者，偶尔写点代码
+我是一个业余的翻译爱好者，偶尔写点代码
 
 <!--
 **shudorcl/shudorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+**做脚本小子，写绿皮代码！**
+
+Waaagh！
 -->
