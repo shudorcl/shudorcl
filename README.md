@@ -1,6 +1,6 @@
 ### Hi there 👋 👋 ereht iH
 
-我是一个业余的翻译爱好者，偶尔写点代码
+业余的翻译爱好者，偶尔写点代码
 
 <!--
 **shudorcl/shudorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
