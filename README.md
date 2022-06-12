@@ -1,6 +1,6 @@
 ### Hi there 👋 👋 ereht iH
 
-业余的翻译爱好者，偶尔写点代码
+业余的翻译爱好者，目前正在参与维多利亚2模组[分歧Fan Fork](https://paratranz.cn/projects/2524)的汉化工作，偶尔写点代码
 
 <!--
 **shudorcl/shudorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
