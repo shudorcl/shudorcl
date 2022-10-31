@@ -1,5 +1,6 @@
 ### Hi there 👋 👋 ereht iH
 
+这个头像是用AI捏的
 <!--
 **shudorcl/shudorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
