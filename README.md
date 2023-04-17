@@ -12,7 +12,8 @@ Size: 512x768
 Model hash: e4b17ce185
 Model: anything-v4.5-pruned
 Denoising strength: 0.55
-Clip skip: 2, ENSD: 31337
+Clip skip: 2
+ENSD: 31337
 Hires upscale: 1.5
 Hires steps: 10
 Hires upscaler: SwinIR 4x
