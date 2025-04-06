@@ -12,6 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**做脚本小子，写绿皮代码！**
-
-Waaagh！
+"I breathe when I sleep" is the same thing as "I sleep when I breathe" !
